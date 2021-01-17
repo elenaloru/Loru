@@ -1,0 +1,35 @@
+#contact-section{
+	flex-wrap: wrap;
+	background: #000;
+	color: #FFF;
+}
+
+.contact-section-column{
+	width: auto;
+}
+
+.contact-info{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-bottom: 8px;
+}
+
+.contact-icon{
+	width: 24px;
+	height: 24px;
+	filter: invert(1);
+	margin-right: 16px;
+}
+
+#contact-section-social-network{
+	margin-top: 32px;
+}
+
+.social-network-icon{
+	width: 48px;
+	height: 48px;
+	filter: invert(1);
+	margin-right: 32px;
+	cursor: pointer;
+}
