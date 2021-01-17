@@ -1,6 +1,11 @@
 var W = {
     I18N: {},
+    DATA: {
+        WORKS: {}
+    },
     MOD: {
-        LANG: {}
-    }
+        LANG: {},
+        PORTFOLIO: {}
+    },
+    UX: {}
 }

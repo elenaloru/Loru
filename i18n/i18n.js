@@ -22,5 +22,9 @@ W.I18N = {
     "0006": {
         "en": "Take a look at my featured works",
         "es": "Echa un vistazo a mis trabajos más destacados"
+    },
+    "0007": {
+        "en": "",
+        "es": ""
     }
 }
