@@ -2,13 +2,62 @@
 <html>
     <head>
     <!-- METADATA -->
+
+        <title>Loru</title>
+        <meta charset="UTF-8">
+        <meta name="version" content="0.2.0"> <!-- Version follows the schema <X>.<Y>.<Z> where <X>=Major release <Y>=Minor release <Z>=Fixes -->
+        <meta name="author" content="Arnau Fernández">
+        <meta name="description" content="Loru is a makeup artist">
+
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+        <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'">
+        
     <!-- STYLES -->
+
+        <link rel="stylesheet" type="text/css" href="css/w.css">
+
+        <link rel="stylesheet" type="text/css" href="css/home.css">
+        <link rel="stylesheet" type="text/css" href="css/about.css">
+        <link rel="stylesheet" type="text/css" href="css/portfolio.css">
+        <link rel="stylesheet" type="text/css" href="css/contact.css">
+
     </head>  
 
     <body>
-        <p>Test</p>
+
+        <!-- NAV BAR -->
+            
+            <div id="nav-bar">
+                <div class="nav-bar-container">
+                    <p id="nav-bar-title">LORU</p>
+                </div>
+                <div class="nav-bar-container">
+                    <p data-string-id="0001" class="nav-bar-otpion ui-translate"></p>
+                    <p data-string-id="0002" class="nav-bar-otpion ui-translate"></p>
+                    <p data-string-id="0003" class="nav-bar-otpion ui-translate"></p>
+                    <p data-string-id="0004" class="nav-bar-otpion ui-translate"></p>
+                </div>
+            </div>
+
+        <!-- HOME -->
+        
+
+
     </body>
 
     <!-- SCRIPTS -->
+
+        <!-- Global Object -->
+        <script src="src/W.js"></script>
+
+        <!-- i18n Data -->
+        <script src="i18n/i18n.js"></script>
+
+        <!-- Module: Language -->
+        <script src="src/mod/lang.js"></script>
+
+        <!-- Init -->
+        <script src="src/init.js"></script>
 
 </html>

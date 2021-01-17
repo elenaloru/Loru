@@ -1,0 +1,1 @@
+W.MOD.LANG.loadLanguage(navigator.language.split("-")[0]);
