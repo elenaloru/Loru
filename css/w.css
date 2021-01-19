@@ -27,7 +27,6 @@ body{
 .section{
 	box-sizing: border-box;
 	width: 100%;
-	min-height: 300px;
 	padding: 72px 16vw;	
 }
 

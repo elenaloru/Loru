@@ -15,7 +15,7 @@ W.MOD.LANG = (function(){
                 lang = "en";
             }
             // Substitute all UI strings so that they appear in the correct language
-            var uiStrings = document.getElementsByClassName("ui-translate");
+            var uiStrings = W.UX.COLLECTIONS.uiTranslate;
             for(var i=0; i<uiStrings.length; i++){
                 var SID = uiStrings[i].dataset.stringId;
                 if(SID){
