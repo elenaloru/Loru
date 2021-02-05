@@ -1,0 +1,37 @@
+#work-detail-overlay{
+	background: #FAFAFA;
+	justify-content: flex-start;
+	align-items: center;
+	flex-direction: column;
+	box-sizing: border-box;
+	padding: 32px;
+	overflow: auto;
+}
+
+#work-detail-close-button{
+	position: absolute;
+	box-sizing: border-box;
+	padding: 8px;
+	top: 32px;
+	left: 32px;
+	cursor: pointer;
+}
+
+#work-detail-close-button:hover{
+	background: #EEE;
+}
+
+#work-detail-title{
+	font-size: 32px;
+	margin-top: 56px;
+	margin-bottom: 16px;
+}
+
+#work-detail-pictures{
+	margin-top: 32px;
+}
+
+.work-picture{
+	width: 100%;
+	margin-bottom: 16px;
+}

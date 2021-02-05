@@ -17,8 +17,10 @@
 
         <link rel="stylesheet" type="text/css" href="css/w.css">
         <link rel="stylesheet" type="text/css" href="css/navbar.css">
+        <link rel="stylesheet" type="text/css" href="css/home.css">
         <link rel="stylesheet" type="text/css" href="css/about.css">
         <link rel="stylesheet" type="text/css" href="css/portfolio.css">
+        <link rel="stylesheet" type="text/css" href="css/workdetail.css">
         <link rel="stylesheet" type="text/css" href="css/contact.css">
 
     </head>  
@@ -31,10 +33,24 @@
                     <p id="nav-bar-title">LORU</p>
                 </div>
                 <div class="nav-bar-section">
-                    <p data-string-id="0002" class="nav-bar-option ui-translate"></p>
-                    <p data-string-id="0003" class="nav-bar-option ui-translate"></p>
-                    <p data-string-id="0004" class="nav-bar-option ui-translate"></p>
+                    <a href="#about-section"><p data-string-id="0002" class="nav-bar-option ui-translate"></p></a>
+                    <a href="#portfolio-section"><p data-string-id="0003" class="nav-bar-option ui-translate"></p></a>
+                    <a href="#contact-section"><p data-string-id="0004" class="nav-bar-option ui-translate"></p></a>
                 </div>
+            </div>
+
+        <!-- HOME -->
+
+            <div id="home-section" class="section">
+
+                <div id="home-section-info">
+                    <p id="home-title">Elena López</p>
+                    <p id="home-subtitle">Makeup artist from Barcelona</p>
+                </div>
+
+                <div id="home-section-background">
+                </div>
+
             </div>
 
         <!-- ABOUT -->
@@ -52,12 +68,25 @@
             <div id="portfolio-section" class="section">
 
                 <p data-string-id="0003" class="section-title ui-translate"></p>
-
                 <p data-string-id="0006" class="section-description ui-translate"></p>
 
             </div>
 
             <div id="portfolio-gallery"></div>
+
+        <!-- WORK DETAIL -->
+
+            <div id="work-detail-overlay" class="overlay overlay-off">
+
+                <p id="work-detail-close-button" data-string-id="0009" class="ui-translate" onclick="W.MOD.PORTFOLIO.closeWorkDetail()"></p>
+
+                <p id="work-detail-title"></p>
+
+                <p id="work-detail-description"></p>
+
+                <div id="work-detail-pictures"></div>
+
+            </div>
             
         <!-- CONTACT -->
 
@@ -68,35 +97,34 @@
                 <p data-string-id="0005" class="section-description ui-translate"></p>
 
                 <div class="contact-section-column">
-
                     <div class="contact-info">
                         <img class="contact-icon" src="assets/icons/ic-email.png"></img>
                         <p>elenaloru2026@gmail.com</p>
                     </div>
-
                     <div class="contact-info">
                         <img class="contact-icon" src="assets/icons/ic-phone.png"></img>
                         <p>+34 620 61 99 05</p>
                     </div>
-                    
                     <div id="contact-section-social-network" class="contact-info">
                         <a class="social-network-button" href="https://www.instagram.com/loru.mua/"><img class="social-network-icon" src="assets/icons/ic-instagram.png"></img></a>
                         <a class="social-network-button" href=""><img class="social-network-icon" src="assets/icons/ic-linkedin.png"></img></a>
-                    </div>                    
-
+                    </div>
                 </div>
 
                 <div class="contact-section-column">
 
+                </div>
 
-
-                </div>             
+                <p id="copyright" class="ui-translate" data-string-id="0008"></p>
 
             </div>
 
     </body>
 
     <!-- SCRIPTS -->
+
+        <!-- External Libraries -->
+        <script src="lib/nav.js"></script>
 
         <!-- Global Object -->
         <script src="src/W.js"></script>

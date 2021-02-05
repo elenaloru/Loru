@@ -2,6 +2,7 @@ W.MOD.LANG = (function(){
     // VARIABLES
 
         var availableLanguages = ["es", "en"]
+        var language = "";
 
     // FUNCTIONS
 
@@ -21,13 +22,16 @@ W.MOD.LANG = (function(){
                 if(SID){
                     uiStrings[i].innerText = W.I18N[SID][lang];
                 }
-            }            
+            }
+            // Save language
+            language = lang;      
         }
 
     // EXPOSE
     
         return {
-            loadLanguage: loadLanguage
+            loadLanguage: loadLanguage,
+            language: function(){return language}
         }
 
 })();

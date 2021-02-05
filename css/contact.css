@@ -1,6 +1,6 @@
 #contact-section{
 	flex-wrap: wrap;
-	background: #000;
+	background: #212121;
 	color: #FFF;
 }
 
@@ -32,4 +32,12 @@
 	filter: invert(1);
 	margin-right: 32px;
 	cursor: pointer;
+}
+
+#copyright{
+	text-align: right;
+	border-top: 1px solid rgba(255, 255, 255, 0.54);
+	padding-top: 16px;
+	margin-top: 56px;
+	font-size: 12px;
 }

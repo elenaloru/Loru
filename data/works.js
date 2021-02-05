@@ -11,7 +11,7 @@ W.DATA.WORKS = {
             "es": "Dana"
         },
         cover: "dana_cover.jpg",
-        pictures: ["dana1.jpg", "dana2.jpg", "dana3.jpg"],
+        pictures: ["dana_1.jpg", "dana_2.jpg", "dana_3.jpg"],
         instagram: "https://www.instagram.com"
     },
 

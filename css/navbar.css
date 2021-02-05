@@ -18,6 +18,12 @@
 	z-index: 99;
 }
 
+@media (max-width: 424px) {
+  #nav-bar {
+  	justify-content: center;
+  }
+}
+
 .nav-bar-section{
 	display: flex;
 	flex-direction: row;
