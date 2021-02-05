@@ -1,2 +1,2 @@
-# Elenaloru-Portfolio
-Elenaloru portfolio webstie
+# Loru Portfolio
+Elena López Portfolio Website
