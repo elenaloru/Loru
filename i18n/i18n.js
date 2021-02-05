@@ -32,7 +32,11 @@ W.I18N = {
         "es": "© " + new Date().getFullYear() + ". Elena López. Todos los derechos reservados"
     },
     "0009": {
-        "en": "🡨 Back",
-        "es": "🡨 Atrás"
+        "en": "< Back",
+        "es": "< Atrás"
+    },
+    "0010": {
+        "en": "Makeup artist, Barcelona",
+        "es": "Maquilladora profesional, Barcelona"
     }
 }

@@ -7,11 +7,7 @@ W.MOD.NAVBAR = (function(){
     // FUNCTIONS
 
         var goToSection = function(section){
-            console.log(section.getClientRects()[0].y);
-            if(section != currentSection){
-                currentSection = section;
-                window.scrollTo({top: section.getClientRects()[0].y - 54, behavior: 'smooth'});
-            }
+            section.scrollIntoView();
         }    
 
     // EXPOSE
