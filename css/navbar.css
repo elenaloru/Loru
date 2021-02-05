@@ -40,7 +40,7 @@
 	cursor: pointer;
 }
 
-.nav-bar-option:hover{
+.nav-bar-option:active{
 	background: #EEE;
 }
 
