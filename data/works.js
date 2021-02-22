@@ -70,7 +70,7 @@ W.DATA.WORKS = {
             "en": "Demon Neon",
             "es": "Demon Neon"
         },        
-        cover: "demon_neon_cover.jpg",
+        cover: "demon_neon_cover.jpeg",
         pictures: ["demon_neon_01.jpeg", "demon_neon_02.jpeg", "demon_neon_03.jpeg", "demon_neon_04.jpeg", "demon_neon_05.jpeg"],
         instagram: ""        
     },
