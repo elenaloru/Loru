@@ -7,7 +7,12 @@ W.MOD.NAVBAR = (function(){
     // FUNCTIONS
 
         var goToSection = function(section){
-            section.scrollIntoView();
+            if(section == W.UX.SECTIONS.home){
+                window.scrollTo(0, 0);
+            }
+            else{
+                section.scrollIntoView();
+            }
         }    
 
     // EXPOSE

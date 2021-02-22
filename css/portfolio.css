@@ -3,21 +3,21 @@
 }
 
 #portfolio-gallery{
-	background: #FAFAFA;	
+	background: #212121;  
+  width: 100%;
   line-height: 0;
-  column-count: 4;
+  column-count: 5;
   column-gap: 0px;
 }
 
 @media (max-width: 424px) {
-  #portfolio-gallery {
-  	column-count: 2;
+  #portfolio-gallery {  
+  	column-count: 1;
   }
 }
 
 .portfolio-img{
-  width: 100% !important;
-  height: auto !important;
+  width: 100%;
 	cursor: pointer;
 	transition: all 0.3s ease;
 }

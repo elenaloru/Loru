@@ -16,6 +16,7 @@ W.UX = (function(){
 
             SECTIONS: {
                 about: document.getElementById("about-section"),
+                home: document.getElementById("home-section"),
                 portfolio: document.getElementById("portfolio-section"),
                 contact: document.getElementById("contact-section")
             },

@@ -39,6 +39,7 @@ W.MOD.PORTFOLIO = (function(){
                 W.UX.OVERLAYS.workDetail.classList.remove("overlay-off");
                 W.UX.OVERLAYS.workDetail.classList.add("overlay-on");
                 NAV.addNavigation("Work Detail", closeWorkDetail);
+                W.UX.OVERLAYS.workDetail.scrollTop = 0;
             }
         }
 
@@ -60,7 +61,7 @@ W.MOD.PORTFOLIO = (function(){
         var closeWorkDetail = function(){
             document.body.classList.remove("no-scroll");
             W.UX.OVERLAYS.workDetail.classList.remove("overlay-on");
-            W.UX.OVERLAYS.workDetail.classList.add("overlay-off");
+            W.UX.OVERLAYS.workDetail.classList.add("overlay-off");          
         }
 
     // EVENT LISTENERS

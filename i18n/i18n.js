@@ -4,8 +4,8 @@ W.I18N = {
         "es": "Inicio"
     },
     "0002": {
-        "en": "About",
-        "es": "Sobre mi"
+        "en": "Home",
+        "es": "Inicio"
     },
     "0003": {
         "en": "Portfolio",
@@ -32,11 +32,11 @@ W.I18N = {
         "es": "© " + new Date().getFullYear() + ". Elena López. Todos los derechos reservados"
     },
     "0009": {
-        "en": "< Back",
-        "es": "< Atrás"
+        "en": "< Portfolio",
+        "es": "< Portfolio"
     },
     "0010": {
-        "en": "Makeup artist, Barcelona",
-        "es": "Maquilladora profesional, Barcelona"
+        "en": "Makeup artist, BCN/MAD",
+        "es": "Maquilladora profesional, BCN/MAD"
     }
 }

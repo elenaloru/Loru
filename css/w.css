@@ -1,4 +1,29 @@
 /*===========================================================================================================*/
+/*FONTS*/
+/*===========================================================================================================*/
+
+@font-face{
+	font-family: "Signika";
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/Signika-Light.woff') format('woff');
+  }
+  
+  @font-face{
+	font-family: "Signika";
+	font-style: normal;
+	font-weight: 400;
+	src: url('fonts/Signika-Regular.woff') format('woff');
+  }
+  
+  @font-face{
+	font-family: "Signika";
+	font-style: normal;
+	font-weight: 500;
+	src: url('fonts/Signika-SemiBold.woff') format('woff');
+  }
+
+/*===========================================================================================================*/
 /* PAGE COMMON STYLES */
 /*===========================================================================================================*/
 

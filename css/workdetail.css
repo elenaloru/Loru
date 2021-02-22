@@ -4,7 +4,6 @@
 	align-items: center;
 	flex-direction: column;
 	box-sizing: border-box;
-	padding: 32px;
 	overflow: auto;
 }
 
@@ -17,21 +16,25 @@
 	cursor: pointer;
 }
 
-#work-detail-close-button:hover{
-	background: #EEE;
-}
-
 #work-detail-title{
 	font-size: 32px;
-	margin-top: 56px;
+	margin-top: 86px;
 	margin-bottom: 16px;
 }
 
 #work-detail-pictures{
 	margin-top: 32px;
+  line-height: 0;
+  column-count: 2;
+  column-gap: 0px;
+}
+
+@media (max-width: 424px) {
+  #work-detail-pictures {
+  	column-count: 1;
+  }
 }
 
 .work-picture{
 	width: 100%;
-	margin-bottom: 16px;
 }
