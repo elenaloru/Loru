@@ -36,7 +36,7 @@ W.I18N = {
         "es": "< Portfolio"
     },
     "0010": {
-        "en": "Makeup artist, BCN/MAD",
-        "es": "Maquilladora profesional, BCN/MAD"
+        "en": "MUA, Barcelona & Madrid",
+        "es": "MUA, Barcelona & Madrid"
     }
 }

@@ -1,6 +1,7 @@
 W.DATA.WORKS = {
 
     "01": {
+        active: 1,
         position: 11,
         title: {
             "en": "Dana",
@@ -16,6 +17,7 @@ W.DATA.WORKS = {
     },
 
     "02": {
+        active: 1,        
         position: 5,
         title: {
             "en": "Chris/Polina",
@@ -31,6 +33,7 @@ W.DATA.WORKS = {
     },
 
     "03": {
+        active: 1,        
         position: 9,
         title: {
             "en": "Say Cheese",
@@ -46,6 +49,7 @@ W.DATA.WORKS = {
     },
 
     "04": {
+        active: 1,        
         position: 1,
         title: {
             "en": "The Last Wave of Summer",
@@ -61,6 +65,7 @@ W.DATA.WORKS = {
     },
 
     "05": {
+        active: 1,        
         position: 12,
         title: {
             "en": "Demon Neon",
@@ -76,6 +81,7 @@ W.DATA.WORKS = {
     },
 
     "06": {
+        active: 1,        
         position: 2,
         title: {
             "en": "Dream In The Garden",
@@ -91,7 +97,8 @@ W.DATA.WORKS = {
     },
 
     "07": {
-        position: 6,
+        active: 1,        
+        position: 15,
         title: {
             "en": "Climax",
             "es": "Climax"
@@ -106,6 +113,7 @@ W.DATA.WORKS = {
     },
     
     "08": {
+        active: 1,        
         position: 10,
         title: {
             "en": "Victoria",
@@ -121,6 +129,7 @@ W.DATA.WORKS = {
     },
     
     "09": {
+        active: 1,        
         position: 13,
         title: {
             "en": "Blue",
@@ -136,6 +145,7 @@ W.DATA.WORKS = {
     },
     
     "10": {
+        active: 1,        
         position: 3,
         title: {
             "en": "Fashion Glam",
@@ -151,6 +161,7 @@ W.DATA.WORKS = {
     },
     
     "11": {
+        active: 1,        
         position: 7,
         title: {
             "en": "The Wish",
@@ -166,7 +177,8 @@ W.DATA.WORKS = {
     },
     
     "12": {
-        position: 15,
+        active: 1,        
+        position: 16,
         title: {
             "en": "The Other Half",
             "es": "The Other Half"
@@ -181,6 +193,7 @@ W.DATA.WORKS = {
     },
 
     "13": {
+        active: 1,        
         position: 4,
         title: {
             "en": "Feel Your Halo",
@@ -196,6 +209,7 @@ W.DATA.WORKS = {
     },
     
     "14": {
+        active: 0,        
         position: 8,
         title: {
             "en": "Seira",
@@ -211,6 +225,7 @@ W.DATA.WORKS = {
     },
 
     "15": {
+        active: 0,        
         position: 16,
         title: {
             "en": "Violeta",
@@ -226,6 +241,7 @@ W.DATA.WORKS = {
     },
     
     "16": {
+        active: 1,        
         position: 14,
         title: {
             "en": "Denim",
@@ -238,7 +254,23 @@ W.DATA.WORKS = {
         cover: "denim_cover.jpeg",
         pictures: ["denim_01.jpeg", "denim_02.jpeg", "denim_03.jpeg"],
         instagram: ""        
-    }      
+    },
+    
+    "17": {
+        active: 1,        
+        position: 17,
+        title: {
+            "en": "María",
+            "es": "María"
+        },
+        description: {
+            "en": "María",
+            "es": "María"
+        },        
+        cover: "maria_cover.jpeg",
+        pictures: ["maria_cover.jpeg", "maria_01.jpeg", "maria_02.jpeg", "maria_03.jpeg"],
+        instagram: ""        
+    }    
     
 
 }

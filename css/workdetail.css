@@ -23,10 +23,12 @@
 }
 
 #work-detail-pictures{
+	box-sizing: border-box;
 	margin-top: 32px;
   line-height: 0;
   column-count: 2;
-  column-gap: 0px;
+  column-gap: 8px;
+	padding: 8px;
 }
 
 @media (max-width: 424px) {
@@ -37,4 +39,5 @@
 
 .work-picture{
 	width: 100%;
+	margin-bottom: 8px;
 }

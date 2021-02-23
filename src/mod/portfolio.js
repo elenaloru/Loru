@@ -19,11 +19,13 @@ W.MOD.PORTFOLIO = (function(){
             orderedWorks = orderedWorks.sort(function(a,b){return a[1] - b[1]});
             for(var i= 0; i<orderedWorks.length; i++){
                 var work = W.DATA.WORKS[orderedWorks[i][0]];
-                var portfolioImg = document.createElement("IMG");
-                portfolioImg.workID = orderedWorks[i][0];
-                portfolioImg.classList.add("portfolio-img");
-                portfolioImg.src = portfolioPicturesPath + work.cover;
-                W.UX.ELEMENTS.portfolioGallery.append(portfolioImg);
+                if(work.active == 1){
+                    var portfolioImg = document.createElement("IMG");
+                    portfolioImg.workID = orderedWorks[i][0];
+                    portfolioImg.classList.add("portfolio-img");
+                    portfolioImg.src = portfolioPicturesPath + work.cover;
+                    W.UX.ELEMENTS.portfolioGallery.append(portfolioImg);
+                }
             }
         }
 

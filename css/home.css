@@ -26,9 +26,9 @@
 }
 
 #home-section-background{
-	background: url("../assets/pictures/dana_03.jpg") center no-repeat;
+	background: url("../assets/pictures/cover.jpeg") center no-repeat;
 	background-size: cover;
-	background-position: 25vw -25vh;
+	background-position: 25vw -5vh;
 	width: 100%;
 	z-index: 0;
 }

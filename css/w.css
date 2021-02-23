@@ -3,25 +3,25 @@
 /*===========================================================================================================*/
 
 @font-face{
-	font-family: "Signika";
-	font-style: normal;
-	font-weight: 300;
-	src: url('fonts/Signika-Light.woff') format('woff');
-  }
-  
-  @font-face{
-	font-family: "Signika";
+	font-family: "DomaineDisplayNar";
 	font-style: normal;
 	font-weight: 400;
-	src: url('fonts/Signika-Regular.woff') format('woff');
-  }
-  
-  @font-face{
-	font-family: "Signika";
+	src: url('fonts/DomaineDispNar-Regular.otf');
+}
+
+@font-face{
+	font-family: "DomaineDisplayNar";
 	font-style: normal;
 	font-weight: 500;
-	src: url('fonts/Signika-SemiBold.woff') format('woff');
-  }
+	src: url('fonts/DomaineDispNar-Medium.otf');
+}
+
+@font-face{
+	font-family: "DomaineDisplayNar";
+	font-style: normal;
+	font-weight: 700;
+	src: url('fonts/DomaineDispNar-Bold.otf');
+}
 
 /*===========================================================================================================*/
 /* PAGE COMMON STYLES */
@@ -45,7 +45,7 @@ body{
 	width: 100%;
 	height: 100%;
 	line-height: 1.25;
-	font-family: 'Signika';
+	font-family: 'DomaineDisplayNar';
   font-weight: 400;
 	color: rgba(0,0,0,0.87);
   background: #FAFAFA;
