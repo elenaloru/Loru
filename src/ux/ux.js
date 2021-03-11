@@ -11,6 +11,7 @@ W.UX = (function(){
                 portfolioGallery: document.getElementById("portfolio-gallery"),
                 workDetailTitle: document.getElementById("work-detail-title"),
                 workDetailDescription: document.getElementById("work-detail-description"),
+                workDetailCoverPicture: document.getElementById("work-detail-cover-picture"),
                 workDetailPictures: document.getElementById("work-detail-pictures")
             },
 

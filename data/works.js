@@ -12,7 +12,7 @@ W.DATA.WORKS = {
             "es": "Dana"
         },
         cover: "dana_cover.jpg",
-        pictures: ["dana_01.jpg", "dana_02.jpg", "dana_03.jpg", "dana_04.jpg"],
+        pictures: ["dana_01.jpg", "dana_02.jpg", "dana_03.jpg"],
         instagram: "https://www.instagram.com"
     },
 
@@ -44,7 +44,7 @@ W.DATA.WORKS = {
             "es": "Say Cheese"
         },             
         cover: "say_cheese_cover.jpg",
-        pictures: ["say_cheese_01.jpeg", "say_cheese_02.jpeg", "say_cheese_03.jpeg", "say_cheese_04.jpeg", "say_cheese_05.jpeg"],
+        pictures: ["say_cheese_01.jpeg", "say_cheese_02.jpeg", "say_cheese_03.jpeg", "say_cheese_04.jpeg"],
         instagram: ""
     },
 
@@ -60,7 +60,7 @@ W.DATA.WORKS = {
             "es": "The Last Wave of Summer"
         },
         cover: "the_last_wave_of_summer_cover.jpg",
-        pictures: ["the_last_wave_of_summer_01.jpeg", "the_last_wave_of_summer_02.jpeg", "the_last_wave_of_summer_03.jpeg", "the_last_wave_of_summer_04.jpeg"],
+        pictures: ["the_last_wave_of_summer_01.jpeg", "the_last_wave_of_summer_02.jpeg", "the_last_wave_of_summer_03.jpeg"],
         instagram: ""        
     },
 
@@ -124,7 +124,7 @@ W.DATA.WORKS = {
             "es": "Victoria"
         },        
         cover: "victoria_cover.jpeg",
-        pictures: ["victoria_01.jpeg", "victoria_02.jpeg", "victoria_03.jpeg"],
+        pictures: ["victoria_01.jpeg", "victoria_02.jpeg"],
         instagram: ""        
     },
     
@@ -140,7 +140,7 @@ W.DATA.WORKS = {
             "es": "Blue"
         },        
         cover: "blue_cover.jpeg",
-        pictures: ["blue_01.jpeg", "blue_02.jpeg", "blue_03.jpeg", "blue_04.jpeg"],
+        pictures: ["blue_01.jpeg", "blue_02.jpeg", "blue_03.jpeg"],
         instagram: ""        
     },
     
@@ -156,7 +156,7 @@ W.DATA.WORKS = {
             "es": "Fashion Glam"
         },        
         cover: "fashion_glam_cover.jpeg",
-        pictures: ["fashion_glam_01.jpeg", "fashion_glam_02.jpeg", "fashion_glam_03.jpeg", "fashion_glam_04.jpeg"],
+        pictures: ["fashion_glam_01.jpeg", "fashion_glam_02.jpeg", "fashion_glam_03.jpeg"],
         instagram: ""        
     },
     
@@ -172,7 +172,7 @@ W.DATA.WORKS = {
             "es": "The Wish"
         },        
         cover: "the_wish_cover.jpeg",
-        pictures: ["the_wish_01.jpeg", "the_wish_02.jpeg", "the_wish_03.jpeg", "the_wish_04.jpeg"],
+        pictures: ["the_wish_01.jpeg", "the_wish_02.jpeg", "the_wish_03.jpeg"],
         instagram: ""        
     },
     
@@ -188,7 +188,7 @@ W.DATA.WORKS = {
             "es": "The Other Half"
         },        
         cover: "the_other_half_cover.jpeg",
-        pictures: ["the_other_half_01.jpeg", "the_other_half_02.jpeg", "the_other_half_03.jpeg", "the_other_half_04.jpeg"],
+        pictures: ["the_other_half_01.jpeg", "the_other_half_02.jpeg", "the_other_half_03.jpeg"],
         instagram: ""        
     },
 
@@ -204,7 +204,7 @@ W.DATA.WORKS = {
             "es": "Feel Your Halo"
         },        
         cover: "feel_your_halo_cover.jpeg",
-        pictures: ["feel_your_halo_01.jpeg", "feel_your_halo_02.jpeg", "feel_your_halo_03.jpeg"],
+        pictures: ["feel_your_halo_01.jpeg", "feel_your_halo_02.jpeg"],
         instagram: ""        
     },
     
@@ -220,7 +220,7 @@ W.DATA.WORKS = {
             "es": "Seira"
         },        
         cover: "seira_cover.jpeg",
-        pictures: ["seira_01.jpeg", "seira_02.jpeg", "seira_03.jpeg"],
+        pictures: ["seira_01.jpeg", "seira_02.jpeg"],
         instagram: ""        
     },
 
@@ -236,7 +236,7 @@ W.DATA.WORKS = {
             "es": "Violeta"
         },        
         cover: "violeta_cover.jpeg",
-        pictures: ["violeta_01.jpeg", "violeta_02.jpeg", "violeta_03.jpeg", "violeta_04.jpeg"],
+        pictures: ["violeta_01.jpeg", "violeta_02.jpeg", "violeta_03.jpeg"],
         instagram: ""        
     },
     
@@ -252,7 +252,7 @@ W.DATA.WORKS = {
             "es": "Denim"
         },        
         cover: "denim_cover.jpeg",
-        pictures: ["denim_01.jpeg", "denim_02.jpeg", "denim_03.jpeg"],
+        pictures: ["denim_01.jpeg", "denim_02.jpeg"],
         instagram: ""        
     },
     
@@ -268,9 +268,40 @@ W.DATA.WORKS = {
             "es": "María"
         },        
         cover: "maria_cover.jpeg",
-        pictures: ["maria_cover.jpeg", "maria_01.jpeg", "maria_02.jpeg", "maria_03.jpeg"],
+        pictures: ["maria_01.jpeg", "maria_02.jpeg", "maria_03.jpeg"],
         instagram: ""        
-    }    
+    },
     
+    "18": {
+        active: 1,        
+        position: 18,
+        title: {
+            "en": "What is it",
+            "es": "What is it"
+        },
+        description: {
+            "en": "What is it",
+            "es": "What is it"
+        },        
+        cover: "what_is_it_cover.jpeg",
+        pictures: ["what_is_it_01.jpeg", "what_is_it_02.jpeg", "what_is_it_03.jpeg"],
+        instagram: ""
+    },
+
+    "19": {
+        active: 1,        
+        position: 19,
+        title: {
+            "en": "Sara",
+            "es": "Sara"
+        },
+        description: {
+            "en": "Sara",
+            "es": "Sara"
+        },        
+        cover: "sara_cover.jpeg",
+        pictures: ["sara_01.jpeg", "sara_02.jpeg", "sara_03.jpeg", "sara_04.jpeg", "sara_05.jpeg"],
+        instagram: ""
+    }
 
 }

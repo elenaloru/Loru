@@ -48,7 +48,10 @@ W.MOD.PORTFOLIO = (function(){
         var loadWorkDetail = function(work){
             W.UX.ELEMENTS.workDetailTitle.innerText = work.title[W.MOD.LANG.language()];
             W.UX.ELEMENTS.workDetailDescription.innerText = work.description[W.MOD.LANG.language()];
+            W.UX.ELEMENTS.workDetailCoverPicture.innerHTML = "";
+            W.UX.ELEMENTS.workDetailCoverPicture.src = portfolioPicturesPath + work.cover;
             W.UX.ELEMENTS.workDetailPictures.innerHTML = "";
+            W.UX.ELEMENTS.workDetailCoverPicture.innerHTML = "";
             for(var i=0; i<work.pictures.length; i++){
                 var picture = document.createElement("IMG");
                 picture.classList.add("work-picture");
