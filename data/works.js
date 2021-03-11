@@ -300,7 +300,7 @@ W.DATA.WORKS = {
             "es": "Sara"
         },        
         cover: "sara_cover.jpeg",
-        pictures: ["sara_01.jpeg", "sara_02.jpeg", "sara_03.jpeg", "sara_04.jpeg", "sara_05.jpeg"],
+        pictures: ["sara_01.jpeg", "sara_02.jpeg", "sara_03.jpeg", "sara_04.jpeg"],
         instagram: ""
     }
 
