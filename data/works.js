@@ -28,7 +28,7 @@ W.DATA.WORKS = {
             "es": "Chris/Polina"
         },
         cover: "chris_polina_cover.jpg",
-        pictures: ["chris_polina_01.jpg", "chris_polina_02.jpg", "chris_polina_03.jpg", "chris_polina_04.jpg", "chris_polina_05.jpg", "chris_polina_06.jpg", "chris_polina_07.jpg", "chris_polina_08.jpg"],
+        pictures: ["chris_polina_01.jpg", "chris_polina_02.jpg", "chris_polina_03.jpg", "chris_polina_04.jpg", "chris_polina_05.jpg", "chris_polina_06.jpg", "chris_polina_07.jpg"],
         instagram: "https://www.instagram.com"
     },
 
@@ -76,7 +76,7 @@ W.DATA.WORKS = {
             "es": "Demon Neon"
         },        
         cover: "demon_neon_cover.jpeg",
-        pictures: ["demon_neon_01.jpeg", "demon_neon_02.jpeg", "demon_neon_03.jpeg", "demon_neon_04.jpeg", "demon_neon_05.jpeg"],
+        pictures: ["demon_neon_01.jpeg", "demon_neon_02.jpeg", "demon_neon_03.jpeg", "demon_neon_04.jpeg"],
         instagram: ""        
     },
 
