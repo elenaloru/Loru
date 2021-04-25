@@ -64,23 +64,8 @@ W.DATA.WORKS = {
         instagram: ""        
     },
 
+   
     "05": {
-        active: 1,        
-        position: 12,
-        title: {
-            "en": "Demon Neon",
-            "es": "Demon Neon"
-        },
-        description: {
-            "en": "Demon Neon",
-            "es": "Demon Neon"
-        },        
-        cover: "demon_neon_cover.jpeg",
-        pictures: ["demon_neon_01.jpeg", "demon_neon_02.jpeg", "demon_neon_03.jpeg", "demon_neon_04.jpeg"],
-        instagram: ""        
-    },
-
-    "06": {
         active: 1,        
         position: 2,
         title: {
@@ -96,7 +81,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
 
-    "07": {
+    "06": {
         active: 1,        
         position: 15,
         title: {
@@ -112,7 +97,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "08": {
+    "07": {
         active: 1,        
         position: 10,
         title: {
@@ -128,7 +113,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "09": {
+    "08": {
         active: 1,        
         position: 13,
         title: {
@@ -145,7 +130,7 @@ W.DATA.WORKS = {
     },
     
     
-    "10": {
+    "09": {
         active: 1,        
         position: 7,
         title: {
@@ -161,7 +146,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "11": {
+    "10": {
         active: 1,        
         position: 16,
         title: {
@@ -178,7 +163,7 @@ W.DATA.WORKS = {
     },
 
       
-    "12": {
+    "11": {
         active: 0,        
         position: 8,
         title: {
@@ -194,7 +179,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
 
-    "13": {
+    "12": {
         active: 0,        
         position: 16,
         title: {
@@ -210,7 +195,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "14": {
+    "13": {
         active: 1,        
         position: 14,
         title: {
@@ -226,7 +211,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "15": {
+    "14": {
         active: 1,        
         position: 17,
         title: {
@@ -242,7 +227,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "16": {
+    "15": {
         active: 1,        
         position: 18,
         title: {
@@ -258,7 +243,7 @@ W.DATA.WORKS = {
         instagram: ""
     },
 
-    "17": {
+    "16": {
         active: 1,        
         position: 19,
         title: {
