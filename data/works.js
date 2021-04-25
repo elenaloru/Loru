@@ -144,23 +144,8 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "10": {
-        active: 1,        
-        position: 3,
-        title: {
-            "en": "Fashion Glam",
-            "es": "Fashion Glam"
-        },
-        description: {
-            "en": "Fashion Glam",
-            "es": "Fashion Glam"
-        },        
-        cover: "fashion_glam_cover.jpeg",
-        pictures: ["fashion_glam_01.jpeg", "fashion_glam_02.jpeg", "fashion_glam_03.jpeg"],
-        instagram: ""        
-    },
     
-    "11": {
+    "10": {
         active: 1,        
         position: 7,
         title: {
@@ -176,7 +161,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "12": {
+    "11": {
         active: 1,        
         position: 16,
         title: {
@@ -193,7 +178,7 @@ W.DATA.WORKS = {
     },
 
       
-    "13": {
+    "12": {
         active: 0,        
         position: 8,
         title: {
@@ -209,7 +194,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
 
-    "14": {
+    "13": {
         active: 0,        
         position: 16,
         title: {
@@ -225,7 +210,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "15": {
+    "14": {
         active: 1,        
         position: 14,
         title: {
@@ -241,7 +226,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "16": {
+    "15": {
         active: 1,        
         position: 17,
         title: {
@@ -257,7 +242,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "17": {
+    "16": {
         active: 1,        
         position: 18,
         title: {
@@ -273,7 +258,7 @@ W.DATA.WORKS = {
         instagram: ""
     },
 
-    "18": {
+    "17": {
         active: 1,        
         position: 19,
         title: {
