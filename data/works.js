@@ -108,7 +108,7 @@ W.DATA.WORKS = {
             "es": "Climax"
         },        
         cover: "climax_cover.jpeg",
-        pictures: ["climax_01.jpeg", "climax_03.jpeg"],
+        pictures: ["climax_06.jpeg", "climax_08.jpeg", "climax_03.jpeg", "climax_07.jpeg"],
         instagram: ""        
     },
     
