@@ -192,23 +192,8 @@ W.DATA.WORKS = {
         instagram: ""        
     },
 
+      
     "13": {
-        active: 1,        
-        position: 4,
-        title: {
-            "en": "Feel Your Halo",
-            "es": "Feel Your Halo"
-        },
-        description: {
-            "en": "Feel Your Halo",
-            "es": "Feel Your Halo"
-        },        
-        cover: "feel_your_halo_cover.jpeg",
-        pictures: ["feel_your_halo_01.jpeg", "feel_your_halo_02.jpeg"],
-        instagram: ""        
-    },
-    
-    "14": {
         active: 0,        
         position: 8,
         title: {
@@ -224,7 +209,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
 
-    "15": {
+    "14": {
         active: 0,        
         position: 16,
         title: {
@@ -240,7 +225,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "16": {
+    "15": {
         active: 1,        
         position: 14,
         title: {
@@ -256,7 +241,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "17": {
+    "16": {
         active: 1,        
         position: 17,
         title: {
@@ -272,7 +257,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "18": {
+    "17": {
         active: 1,        
         position: 18,
         title: {
@@ -288,7 +273,7 @@ W.DATA.WORKS = {
         instagram: ""
     },
 
-    "19": {
+    "18": {
         active: 1,        
         position: 19,
         title: {
