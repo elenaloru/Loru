@@ -47,25 +47,8 @@ W.DATA.WORKS = {
         pictures: ["say_cheese_01.jpeg", "say_cheese_02.jpeg", "say_cheese_03.jpeg", "say_cheese_04.jpeg"],
         instagram: ""
     },
-
+ 
     "04": {
-        active: 1,        
-        position: 1,
-        title: {
-            "en": "The Last Wave of Summer",
-            "es": "The Last Wave of Summer"
-        },
-        description: {
-            "en": "The Last Wave of Summer",
-            "es": "The Last Wave of Summer"
-        },
-        cover: "the_last_wave_of_summer_cover.jpg",
-        pictures: ["the_last_wave_of_summer_01.jpeg", "the_last_wave_of_summer_02.jpeg", "the_last_wave_of_summer_03.jpeg"],
-        instagram: ""        
-    },
-
-   
-    "05": {
         active: 1,        
         position: 2,
         title: {
@@ -81,7 +64,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
 
-    "06": {
+    "05": {
         active: 1,        
         position: 15,
         title: {
@@ -97,7 +80,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "07": {
+    "06": {
         active: 1,        
         position: 10,
         title: {
@@ -113,7 +96,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "08": {
+    "07": {
         active: 1,        
         position: 13,
         title: {
@@ -130,7 +113,7 @@ W.DATA.WORKS = {
     },
     
     
-    "09": {
+    "08": {
         active: 1,        
         position: 7,
         title: {
@@ -146,7 +129,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "10": {
+    "09": {
         active: 1,        
         position: 16,
         title: {
@@ -163,7 +146,7 @@ W.DATA.WORKS = {
     },
 
       
-    "11": {
+    "10": {
         active: 0,        
         position: 8,
         title: {
@@ -179,7 +162,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
 
-    "12": {
+    "11": {
         active: 0,        
         position: 16,
         title: {
@@ -195,7 +178,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "13": {
+    "12": {
         active: 1,        
         position: 14,
         title: {
@@ -211,7 +194,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "14": {
+    "13": {
         active: 1,        
         position: 17,
         title: {
@@ -227,7 +210,7 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "15": {
+    "14": {
         active: 1,        
         position: 18,
         title: {
@@ -243,7 +226,7 @@ W.DATA.WORKS = {
         instagram: ""
     },
 
-    "16": {
+    "15": {
         active: 1,        
         position: 19,
         title: {
@@ -259,7 +242,7 @@ W.DATA.WORKS = {
         instagram: ""
     },
    
- "17": {
+ "16": {
         active: 1,        
         position: 20,
         title: {
@@ -275,7 +258,7 @@ W.DATA.WORKS = {
         instagram: ""
     },
        
- "18": {
+ "17": {
       active: 1,        
       position: 21,
       title: {
