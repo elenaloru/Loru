@@ -272,6 +272,38 @@ W.DATA.WORKS = {
       cover: "Where_are_u_now_cover.jpeg",
       pictures: ["Where_are_u_now_01.jpeg", "Where_are_u_now_02.jpeg", "Where_are_u_now_03.jpeg"],
       instagram: ""
-  }  
-
+  },
+    
+ "18": {
+      active: 1,        
+      position: 22,
+      title: {
+          "en": "Cool Kids",
+          "es": "Cool Kids"
+      },
+      description: {
+          "en": "Cool Kids",
+          "es": "Cool Kids"
+      },        
+      cover: "cool_kids_cover.jpeg",
+      pictures: ["cool_kids_01.jpeg", "cool_kids_02.jpeg", "cool_kids_03.jpeg", "cool_kids_04.jpeg", "cool_kids_05.jpeg", "cool_kids_06.jpeg"],
+      instagram: ""
+  },
+    
+ "19": {
+      active: 1,        
+      position: 23,
+      title: {
+          "en": "Split Personality",
+          "es": "Split Personality"
+      },
+      description: {
+          "en": "Split Personality",
+          "es": "Split Personality"
+      },        
+      cover: "split_personality_cover.jpeg",
+      pictures: ["split_personality_01.jpeg", "split_personality_02.jpeg", "split_personality_03.jpeg", "split_personality_04.jpeg"],
+      instagram: ""
+  }      
+    
 }
