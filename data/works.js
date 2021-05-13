@@ -82,7 +82,7 @@ W.DATA.WORKS = {
     
     "06": {
         active: 1,        
-        position: 10,
+        position: 22,
         title: {
             "en": "Victoria",
             "es": "Victoria"
@@ -276,7 +276,7 @@ W.DATA.WORKS = {
 
  "18": {
       active: 1,        
-      position: 22,
+      position: 10,
       title: {
           "en": "Cool Kids",
           "es": "Cool Kids"
