@@ -302,7 +302,7 @@ W.DATA.WORKS = {
           "es": "Split Personality"
       },        
       cover: "split_personality_cover.jpeg",
-      pictures: ["split_personality_01.jpeg", "split_personality_02.jpeg", "split_personality_03.jpeg", "split_personality_04.jpeg"],
+      pictures: ["split_personality_01.jpeg", "split_personality_02.jpeg", "split_personality_03.jpeg"],
       instagram: ""
   }     
 
