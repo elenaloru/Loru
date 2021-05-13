@@ -2,7 +2,7 @@ W.DATA.WORKS = {
 
     "01": {
         active: 1,
-        position: 1,
+        position: 2,
         title: {
             "en": "Dana",
             "es": "Dana"
@@ -18,7 +18,7 @@ W.DATA.WORKS = {
 
     "02": {
         active: 1,        
-        position: 2,
+        position: 16,
         title: {
             "en": "Chris/Polina",
             "es": "Chris/Polina"
@@ -34,7 +34,7 @@ W.DATA.WORKS = {
 
     "03": {
         active: 1,        
-        position: 3,
+        position: 7,
         title: {
             "en": "Say Cheese",
             "es": "Say Cheese"
@@ -50,7 +50,7 @@ W.DATA.WORKS = {
  
     "04": {
         active: 1,        
-        position: 4,
+        position: 3,
         title: {
             "en": "Dream In The Garden",
             "es": "Dream In The Garden"
@@ -66,7 +66,7 @@ W.DATA.WORKS = {
 
     "05": {
         active: 1,        
-        position: 5,
+        position: 12,
         title: {
             "en": "Climax",
             "es": "Climax"
@@ -82,7 +82,7 @@ W.DATA.WORKS = {
     
     "06": {
         active: 1,        
-        position: 6,
+        position: 4,
         title: {
             "en": "Victoria",
             "es": "Victoria"
@@ -98,7 +98,7 @@ W.DATA.WORKS = {
     
     "07": {
         active: 1,        
-        position: 7,
+        position: 8,
         title: {
             "en": "Blue",
             "es": "Blue"
@@ -115,7 +115,7 @@ W.DATA.WORKS = {
     
     "08": {
         active: 1,        
-        position: 8,
+        position: 17 ,
         title: {
             "en": "The Wish",
             "es": "The Wish"
@@ -147,7 +147,7 @@ W.DATA.WORKS = {
      
     "10": {
         active: 1,        
-        position: 10,
+        position: 5,
         title: {
             "en": "Denim",
             "es": "Denim"
@@ -179,7 +179,7 @@ W.DATA.WORKS = {
     
     "12": {
         active: 1,        
-        position: 12,
+        position: 13,
         title: {
             "en": "What is it",
             "es": "What is it"
@@ -195,7 +195,7 @@ W.DATA.WORKS = {
 
     "13": {
         active: 1,        
-        position: 13,
+        position: 15,
         title: {
             "en": "Sara",
             "es": "Sara"
@@ -227,7 +227,7 @@ W.DATA.WORKS = {
        
  "15": {
       active: 1,        
-      position: 15,
+      position: 1,
       title: {
           "en": "Where Are You Now",
           "es": "Where Are You Now"
@@ -243,7 +243,7 @@ W.DATA.WORKS = {
 
  "16": {
       active: 1,        
-      position: 16,
+      position: 6,
       title: {
           "en": "Cool Kids",
           "es": "Cool Kids"
@@ -259,7 +259,7 @@ W.DATA.WORKS = {
 
  "17": {
       active: 1,        
-      position: 17,
+      position: 10,
       title: {
           "en": "Split Personality",
           "es": "Split Personality"
