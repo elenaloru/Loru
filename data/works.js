@@ -272,6 +272,23 @@ W.DATA.WORKS = {
       cover: "Where_are_u_now_cover.jpeg",
       pictures: ["Where_are_u_now_01.jpeg", "Where_are_u_now_02.jpeg", "Where_are_u_now_03.jpeg"],
       instagram: ""
+  },
+
+ "18": {
+      active: 1,        
+      position: 22,
+      title: {
+          "en": "Cool Kids",
+          "es": "Cool Kids"
+      },
+      description: {
+          "en": "Cool Kids",
+          "es": "Cool Kids"
+      },        
+      cover: "cool_kids_cover.jpeg",
+      pictures: ["cool_kids_01.jpeg", "cool_kids_02.jpeg", "cool_kids_03.jpeg", "cool_kids_04.jpeg", "cool_kids_05.jpeg"],
+      instagram: ""
   }
+
     
 }
