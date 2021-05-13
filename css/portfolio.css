@@ -9,7 +9,7 @@
   line-height: 1;
   column-count: 4;
   padding: 24px 24px;
-  column-gap: 70px;
+  column-gap: 80px;
 }
 
 @media (max-width: 424px) {
