@@ -6,9 +6,9 @@
 	background: #212121;
   box-sizing: border-box;
   width: 100%;
-  line-height: 0;
-  column-count: 5;
-  padding: 20px 20px;
+  line-height: 1;
+  column-count: 4;
+  padding: 24px 24px;
   column-gap: 70px;
 }
 
