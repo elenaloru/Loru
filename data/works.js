@@ -143,41 +143,8 @@ W.DATA.WORKS = {
         cover: "the_other_half_cover.jpeg",
         pictures: ["the_other_half_01.jpeg", "the_other_half_02.jpeg", "the_other_half_03.jpeg"],
         instagram: ""        
-    },
-
-      
-    "10": {
-        active: 0,        
-        position: 8,
-        title: {
-            "en": "Seira",
-            "es": "Seira"
-        },
-        description: {
-            "en": "Seira",
-            "es": "Seira"
-        },        
-        cover: "seira_cover.jpeg",
-        pictures: ["seira_01.jpeg", "seira_02.jpeg"],
-        instagram: ""        
-    },
-
-    "11": {
-        active: 0,        
-        position: 16,
-        title: {
-            "en": "Violeta",
-            "es": "Violeta"
-        },
-        description: {
-            "en": "Violeta",
-            "es": "Violeta"
-        },        
-        cover: "violeta_cover.jpeg",
-        pictures: ["violeta_01.jpeg", "violeta_02.jpeg", "violeta_03.jpeg"],
-        instagram: ""        
-    },
-    
+    },   
+     
     "12": {
         active: 1,        
         position: 14,
