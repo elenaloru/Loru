@@ -2,7 +2,7 @@ W.DATA.WORKS = {
 
     "01": {
         active: 1,
-        position: 3,
+        position: 6,
         title: {
             "en": "Dana",
             "es": "Dana"
@@ -214,7 +214,7 @@ W.DATA.WORKS = {
 
  "14": {
       active: 1,        
-      position: 6,
+      position: 3,
       title: {
           "en": "Cool Kids",
           "es": "Cool Kids"
