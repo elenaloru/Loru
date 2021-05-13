@@ -2,7 +2,7 @@ W.DATA.WORKS = {
 
     "01": {
         active: 1,
-        position: 2,
+        position: 3,
         title: {
             "en": "Dana",
             "es": "Dana"
@@ -18,7 +18,7 @@ W.DATA.WORKS = {
 
     "02": {
         active: 1,        
-        position: 16,
+        position: 10,
         title: {
             "en": "Chris/Polina",
             "es": "Chris/Polina"
@@ -34,7 +34,7 @@ W.DATA.WORKS = {
 
     "03": {
         active: 1,        
-        position: 7,
+        position: 8,
         title: {
             "en": "Say Cheese",
             "es": "Say Cheese"
@@ -50,7 +50,7 @@ W.DATA.WORKS = {
  
     "04": {
         active: 1,        
-        position: 3,
+        position: 13,
         title: {
             "en": "Dream In The Garden",
             "es": "Dream In The Garden"
@@ -66,7 +66,7 @@ W.DATA.WORKS = {
 
     "05": {
         active: 1,        
-        position: 12,
+        position: 5,
         title: {
             "en": "Climax",
             "es": "Climax"
@@ -80,25 +80,11 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
+  
+    
     "06": {
         active: 1,        
-        position: 4,
-        title: {
-            "en": "Victoria",
-            "es": "Victoria"
-        },
-        description: {
-            "en": "Victoria",
-            "es": "Victoria"
-        },        
-        cover: "victoria_cover.jpeg",
-        pictures: ["victoria_01.jpeg", "victoria_02.jpeg"],
-        instagram: ""        
-    },
-    
-    "07": {
-        active: 1,        
-        position: 8,
+        position: 14,
         title: {
             "en": "Blue",
             "es": "Blue"
@@ -113,9 +99,9 @@ W.DATA.WORKS = {
     },
     
     
-    "08": {
+    "07": {
         active: 1,        
-        position: 17 ,
+        position: 9 ,
         title: {
             "en": "The Wish",
             "es": "The Wish"
@@ -129,9 +115,9 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "09": {
+    "08": {
         active: 1,        
-        position: 9,
+        position: 15,
         title: {
             "en": "The Other Half",
             "es": "The Other Half"
@@ -145,25 +131,10 @@ W.DATA.WORKS = {
         instagram: ""        
     },   
      
-    "10": {
+   
+    "09": {
         active: 1,        
-        position: 5,
-        title: {
-            "en": "Denim",
-            "es": "Denim"
-        },
-        description: {
-            "en": "Denim",
-            "es": "Denim"
-        },        
-        cover: "denim_cover.jpeg",
-        pictures: ["denim_01.jpeg", "denim_02.jpeg"],
-        instagram: ""        
-    },
-    
-    "11": {
-        active: 1,        
-        position: 11,
+        position: 7,
         title: {
             "en": "María",
             "es": "María"
@@ -177,9 +148,9 @@ W.DATA.WORKS = {
         instagram: ""        
     },
     
-    "12": {
+    "10": {
         active: 1,        
-        position: 13,
+        position: 4,
         title: {
             "en": "What is it",
             "es": "What is it"
@@ -193,9 +164,9 @@ W.DATA.WORKS = {
         instagram: ""
     },
 
-    "13": {
+    "11": {
         active: 1,        
-        position: 15,
+        position: 12,
         title: {
             "en": "Sara",
             "es": "Sara"
@@ -209,9 +180,9 @@ W.DATA.WORKS = {
         instagram: ""
     },
    
- "14": {
+ "12": {
         active: 1,        
-        position: 14,
+        position: 2,
         title: {
             "en": "The Unknown",
             "es": "The Unknown"
@@ -225,7 +196,7 @@ W.DATA.WORKS = {
         instagram: ""
     },
        
- "15": {
+ "13": {
       active: 1,        
       position: 1,
       title: {
@@ -241,7 +212,7 @@ W.DATA.WORKS = {
       instagram: ""
   },
 
- "16": {
+ "14": {
       active: 1,        
       position: 6,
       title: {
@@ -257,9 +228,9 @@ W.DATA.WORKS = {
       instagram: ""
   },
 
- "17": {
+ "15": {
       active: 1,        
-      position: 10,
+      position: 11,
       title: {
           "en": "Split Personality",
           "es": "Split Personality"
