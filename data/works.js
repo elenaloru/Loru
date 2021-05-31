@@ -256,7 +256,7 @@ W.DATA.WORKS = {
             "es": "Glam"
         },        
         cover: "glam_cover.jpeg",
-        pictures: ["glam_1.jpeg", "glam_2.jpeg", "glam_3.jpeg", "glam_4.jpeg"],
+        pictures: ["glam_1.jpeg", "glam_2.jpeg", "glam_4.jpeg", "glam_3.jpeg"],
         instagram: ""
     },
 
