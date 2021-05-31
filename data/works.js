@@ -66,17 +66,17 @@ W.DATA.WORKS = {
 
     "05": {
         active: 1,        
-        position: 5,
+        position: 7,
         title: {
-            "en": "Climax",
-            "es": "Climax"
+            "en": "Maria",
+            "es": "Maria"
         },
         description: {
-            "en": "Climax",
-            "es": "Climax"
+            "en": "Maria",
+            "es": "Maria"
         },        
-        cover: "climax_cover.jpeg",
-        pictures: ["climax_06.jpeg", "climax_08.jpeg", "climax_03.jpeg", "climax_07.jpeg"],
+        cover: "maria_cover.jpeg",
+        pictures: ["maria_01.jpeg", "maria_02.jpeg", "maria_03.jpeg"],
         instagram: ""        
     },
     
@@ -84,7 +84,7 @@ W.DATA.WORKS = {
     
     "06": {
         active: 1,        
-        position: 14,
+        position: 16,
         title: {
             "en": "Blue",
             "es": "Blue"
@@ -136,15 +136,15 @@ W.DATA.WORKS = {
         active: 1,        
         position: 7,
         title: {
-            "en": "María",
-            "es": "María"
+            "en": "Stroll Around The Park",
+            "es": "Stroll Around The Park"
         },
         description: {
-            "en": "María",
-            "es": "María"
+            "en": "Stroll Around The Park",
+            "es": "Stroll Around The Park"
         },        
-        cover: "maria_cover.jpeg",
-        pictures: ["maria_01.jpeg", "maria_02.jpeg", "maria_03.jpeg"],
+        cover: "strollaroundthepark_cover.jpeg",
+        pictures: ["strollaroundthepark_1.jpeg", "strollaroundthepark_2.jpeg", "strollaroundthepark_3.jpeg"],
         instagram: ""        
     },
     
@@ -166,7 +166,7 @@ W.DATA.WORKS = {
 
     "11": {
         active: 1,        
-        position: 12,
+        position: 14,
         title: {
             "en": "Sara",
             "es": "Sara"
@@ -242,7 +242,23 @@ W.DATA.WORKS = {
       cover: "split_personality_cover.jpeg",
       pictures: ["split_personality_01.jpeg", "split_personality_02.jpeg", "split_personality_03.jpeg"],
       instagram: ""
-  }     
+  },
+    
+    "16": {
+        active: 1,        
+        position: 12,
+        title: {
+            "en": "Glam",
+            "es": "Glam"
+        },
+        description: {
+            "en": "Glam",
+            "es": "Glam"
+        },        
+        cover: "glam_cover.jpeg",
+        pictures: ["glam_1.jpeg", "glam_2.jpeg", "glam_3.jpeg", "glam_4.jpeg"],
+        instagram: ""
+    },
 
     
 }
