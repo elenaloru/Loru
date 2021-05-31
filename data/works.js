@@ -34,7 +34,7 @@ W.DATA.WORKS = {
 
     "03": {
         active: 1,        
-        position: 1,
+        position:  11,
         title: {
             "en": "Say Cheese",
             "es": "Say Cheese"
@@ -230,7 +230,7 @@ W.DATA.WORKS = {
 
  "15": {
       active: 1,        
-      position: 11,
+      position: 1,
       title: {
           "en": "Split Personality",
           "es": "Split Personality"
