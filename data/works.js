@@ -34,7 +34,7 @@ W.DATA.WORKS = {
 
     "03": {
         active: 1,        
-        position:  11,
+        position:  9,
         title: {
             "en": "Say Cheese",
             "es": "Say Cheese"
@@ -101,7 +101,7 @@ W.DATA.WORKS = {
     
     "07": {
         active: 1,        
-        position: 9 ,
+        position: 11 ,
         title: {
             "en": "The Wish",
             "es": "The Wish"
