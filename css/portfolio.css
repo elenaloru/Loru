@@ -8,8 +8,8 @@
   width: 100%;
   line-height: 2;
   column-count: 2;
-  padding: 50px 50px;
-  column-gap: 120px;
+  padding: 100px 100px;
+  column-gap: 200px;
 }
 
 @media (max-width: 424px) {
