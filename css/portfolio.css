@@ -7,9 +7,9 @@
   box-sizing: border-box;
   width: 100%;
   line-height: 2;
-  column-count: 2;
-  padding: 220px 220px;
-  column-gap: 200px;
+  column-count: 3;
+  padding: 120px 120px;
+  column-gap: 220px;
 }
 
 @media (max-width: 424px) {
